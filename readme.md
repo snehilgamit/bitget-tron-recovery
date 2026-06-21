@@ -30,7 +30,7 @@ Open `index.html` in your browser.
 ### Option 2: Node.js Script
 
 ```bash
-git clone https://github.com/your-username/bitget-tron-recovery
+git clone https://github.com/snehilgamit/bitget-tron-recovery
 cd bitget-tron-recovery
 npm install
 node recover.js
