@@ -1,0 +1,4 @@
+node_modules/
+src/
+webpack.config.cjs
+package-lock.json
