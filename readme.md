@@ -82,6 +82,24 @@ Same path string, different underlying seed derivation — silent breaking chang
 
 ---
 
+# ❤️ Support the Project
+
+If this tool helped you recover your wallet and you'd like to support further development, tips are greatly appreciated.
+
+## TRON (TRX / TRC20)
+
+```text
+TGsZBpB8uvFNxXDgaT4gmi8R5cN7yCx8t3
+```
+
+## BEP20 (BNB Smart Chain)
+
+```text
+0x1c21E9DBA1F604DAB7d64daB7EEeEC5380A32473
+```
+
+Thank you for your support!
+
 ## Disclaimer
 
 This tool is provided for personal wallet recovery only. Always verify addresses before transferring funds. The author is not responsible for any loss of funds.
